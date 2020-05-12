@@ -105,6 +105,8 @@ Blood Diamond Ore
 * Add Berserker and Berserker Elite hostile mobs
   * Only spawns in Berserker Dimension or in the vicinity of a Berserker portal
 * Add Berserker Raids on the Overworld every 45 days
+  * Only occurs after the Ender Dragon has been defeated
+  * This is the only way to access Berserker Dimension portals
 
 ### Milestone v0.8.0 - Berskers Need Love, Too
 * Add Berserker Covens in Berserker Dimension
