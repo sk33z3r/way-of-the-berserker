@@ -8,7 +8,9 @@ This Mod runs in [Fabric](https://fabricmc.net) and requires [Fabric API](https:
 
 ## Feature Milestones for v1.0.0
 
-### Milestone v0.1.0 - The Armored Release
+---
+
+### ~~[Released] Milestone v0.1.0 - The Armored Release~~
 * Full set of Blood Diamond armor and tools. Blood diamonds are rare and only found in the Nether.
 
 <details>
@@ -61,10 +63,14 @@ Blood Diamond Ore
 
 </details>
 
-### Milestone v0.2.0 - The Technical Advantage
+---
+
+### **[Current] Milestone v0.2.0 - The Technical Advantage**
 * Axe and Swords work as weapons when in off-hand (right-click) at reduced damage and attack speed.
 
-### Milestone v0.3.0 - The Insanity Begins
+---
+
+### _[Future] Milestone v0.3.0 - The Insanity Begins_
 * Potion of the Berserker to remove the off-hand debuffs temporarily, and increase damage (Berserk effect).
   * Locks main-hand to a weapon _(how is the slot chosen?)_
   * Tint the screen red-orange and decrease FOV
@@ -82,17 +88,23 @@ Blood Diamond Ore
 | Cod      | 4s       |
 | Rabbit   | 4s       |
 
-### Milestone v0.4.0 - The Death Never Ends
+---
+
+### _[Future] Milestone v0.4.0 - The Death Never Ends_
 * Broadsword and Broadaxe, disabling the off-hand slot while active in the main-hand.
 * Add kukri and bolo knife, no debuff in the off-hand by default/without buffs.
 * Ninja throwing stars. Like other weapons, can be thrown from off-hand with debuffs.
 
-### Milestone v0.5.0 - The Piglins Rejoice
+---
+
+### _[Future] Milestone v0.5.0 - The Piglins Rejoice_
 * Berserker armor set and unique broadaxe. Found in Piglin Bastions.
 * Piglins trade Blood Diamonds at high levels/prices.
 * Piglins wear Blood Diamond armor if traded or given.
 
-### Milestone v0.6.0 - The Story is Told
+---
+
+### _[Future] Milestone v0.6.0 - The Story is Told_
 * Add Berserker tribe lore/history _(through a book in the initial inventory or random pages found in villages/chests?)_
   * Warmongering race from another dimension
   * Bros with the Piglins, except they totally slept with the Piglin's sister
@@ -104,7 +116,9 @@ Blood Diamond Ore
 * Abandoned Berserker cave structures in the Nether
 * Abandoned Berserker siege outposts in The End
 
-### Milestone v0.7.0 - The Invasion Begins!
+---
+
+### _[Future] Milestone v0.7.0 - The Invasion Begins!_
 * Add Berserker Dimension
 * Add Berserker and Berserker Elite hostile mobs
   * Only spawns in Berserker Dimension or in the vicinity of a Berserker portal
@@ -112,6 +126,8 @@ Blood Diamond Ore
   * Only occurs after the Ender Dragon has been defeated
   * This is the only way to access Berserker Dimension portals
 
-### Milestone v0.8.0 - Berskers Need Love, Too
+---
+
+### _[Future] Milestone v0.8.0 - Berskers Need Love, Too_
 * Add Berserker Covens in Berserker Dimension
 * Add Berserker Villager NPCs and Professions
