@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "berserker_mod:item/blood_diamond_axe"
+   }
+}

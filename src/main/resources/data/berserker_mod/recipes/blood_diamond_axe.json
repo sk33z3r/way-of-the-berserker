@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " YX",
+    " YX",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "berserker_mod:blood_diamond"
+    },
+    "Y": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "berserker_mod:blood_diamond_axe",
+    "count": 1
+  }
+}
+

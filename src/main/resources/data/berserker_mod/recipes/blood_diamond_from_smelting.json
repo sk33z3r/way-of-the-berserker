@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "berserker_mod:blood_diamond_ore"
+  },
+  "result": "berserker_mod:blood_diamond",
+  "experience": 1.0,
+  "cookingtime": 200
+}
