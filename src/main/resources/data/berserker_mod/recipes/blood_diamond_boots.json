@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "Y Y",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "berserker_mod:blood_diamond"
+    },
+    "Y": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "berserker_mod:blood_diamond_boots",
+    "count": 1
+  }
+}
