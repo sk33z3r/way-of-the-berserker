@@ -73,8 +73,8 @@ public class BerserkerMod implements ModInitializer {
 							Decorator.COUNT_RANGE.configure(new RangeDecoratorConfig(
 									veinCount, // veins per chunk
 									0,
-									3, // min y level
-									32 // max y level
+									1, // min y level
+									128 // max y level
 							))));
 		}
 	}

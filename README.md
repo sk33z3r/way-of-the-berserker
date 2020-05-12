@@ -32,7 +32,7 @@ This Mod runs in [Fabric](https://fabricmc.net) and requires [Fabric API](https:
 | Blood Diamond Boots      | +3       | +4        | 0              |
 
 Blood Diamond Ore
-* Only spawns in the Nether between Y3-Y32
+* Only spawns in the Nether
 * Only 1 vein per chunk; each vein being 0-3 total ores
 
 #### Recipes
