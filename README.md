@@ -6,15 +6,12 @@ A simple mod for the bloodthirsty.
 
 This Mod runs in [Fabric](https://fabricmc.net) and requires [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api).
 
-## Feature Milestones for v1.0.0
+## Mod Info
 
----
-
-### ~~[Released] Milestone v0.1.0 - The Armored Release~~
-* Full set of Blood Diamond armor and tools. Blood diamonds are rare and only found in the Nether.
-
-<details>
-<summary>Click to show details</summary>
+#### Blood Diamond Ore
+* Only spawns in the Nether
+* Each block drops 0-3 Blood Diamonds
+* Only 1 vein per chunk; each vein being 0-3 total ore blocks
 
 #### Item Stats
 
@@ -33,11 +30,8 @@ This Mod runs in [Fabric](https://fabricmc.net) and requires [Fabric API](https:
 | Blood Diamond Leggings   | +7       | +4        | 0              |
 | Blood Diamond Boots      | +3       | +4        | 0              |
 
-Blood Diamond Ore
-* Only spawns in the Nether
-* Only 1 vein per chunk; each vein being 0-3 total ores
-
-#### Recipes
+<details>
+<summary>Click to show recipes</summary>
 
 | Item                     | Recipe                                   |
 |--------------------------|------------------------------------------|
@@ -62,6 +56,13 @@ Blood Diamond Ore
 ![Horse Armor](img/horse_armor.png)
 
 </details>
+
+## Feature Milestones for v1.0.0
+
+---
+
+### ~~[Released] Milestone v0.1.0 - The Armored Release~~
+* Full set of Blood Diamond armor and tools. Blood diamonds are rare and only found in the Nether.
 
 ---
 
