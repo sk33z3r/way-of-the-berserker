@@ -2,6 +2,10 @@
 
 A simple mod for the bloodthirsty.
 
+## Requirements
+
+This Mod runs in [Fabric](https://fabricmc.net) and requires [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api).
+
 ## Feature Milestones for v1.0.0
 
 ### Milestone v0.1.0 - The Armored Release
