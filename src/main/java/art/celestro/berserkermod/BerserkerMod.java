@@ -17,17 +17,17 @@ import net.minecraft.world.gen.feature.OreFeatureConfig;
 public class BerserkerMod implements ModInitializer {
 
 	public static final ToolMaterial TOOL_MATERIAL = new BloodDiamondMaterial();
-	public static final ArmorMaterial ARMOR_MATERIAL = new BloodDiamondArmorMaterial();
+	public static final ArmorMaterial ARMOR_MATERIAL = BerserkerArmorMaterials.BLOOD_DIAMOND;
 	public static final Item BLOOD_DIAMOND_SWORD = new BloodDiamondSword(TOOL_MATERIAL, 4, -2.4F, (new Item.Settings()).group(ItemGroup.COMBAT));
 	public static final Item BLOOD_DIAMOND_PICKAXE = new BloodDiamondPickaxe(TOOL_MATERIAL, 2, -2.8F, (new Item.Settings()).group(ItemGroup.TOOLS));
 	public static final Item BLOOD_DIAMOND_AXE = new BloodDiamondAxe(TOOL_MATERIAL, 6.5F, -2.8F, (new Item.Settings()).group(ItemGroup.TOOLS));
 	public static final Item BLOOD_DIAMOND_SHOVEL = new BloodDiamondShovel(TOOL_MATERIAL, 1.5F, -2.8F, (new Item.Settings()).group(ItemGroup.TOOLS));
 	public static final Item BLOOD_DIAMOND_HOE = new BloodDiamondHoe(TOOL_MATERIAL, -4, 1.0F, (new Item.Settings()).group(ItemGroup.TOOLS));
 
-	public static final Item BLOOD_DIAMOND_HELMET = new ArmorItem(ARMOR_MATERIAL, EquipmentSlot.HEAD, (new Item.Settings().group(ItemGroup.COMBAT)));
-	public static final Item BLOOD_DIAMOND_CHESTPLATE = new ArmorItem(ARMOR_MATERIAL, EquipmentSlot.CHEST, (new Item.Settings().group(ItemGroup.COMBAT)));
-	public static final Item BLOOD_DIAMOND_LEGGINGS = new ArmorItem(ARMOR_MATERIAL, EquipmentSlot.LEGS, (new Item.Settings().group(ItemGroup.COMBAT)));
-	public static final Item BLOOD_DIAMOND_BOOTS = new ArmorItem(ARMOR_MATERIAL, EquipmentSlot.FEET, (new Item.Settings().group(ItemGroup.COMBAT)));
+	public static final Item BLOOD_DIAMOND_HELMET = new ArmorItem(ARMOR_MATERIAL, EquipmentSlot.HEAD, (new Item.Settings()).group(ItemGroup.COMBAT));
+	public static final Item BLOOD_DIAMOND_CHESTPLATE = new ArmorItem(ARMOR_MATERIAL, EquipmentSlot.CHEST, (new Item.Settings()).group(ItemGroup.COMBAT));
+	public static final Item BLOOD_DIAMOND_LEGGINGS = new ArmorItem(ARMOR_MATERIAL, EquipmentSlot.LEGS, (new Item.Settings()).group(ItemGroup.COMBAT));
+	public static final Item BLOOD_DIAMOND_BOOTS = new ArmorItem(ARMOR_MATERIAL, EquipmentSlot.FEET, (new Item.Settings()).group(ItemGroup.COMBAT));
 
 	public static final Item BLOOD_DIAMOND_HORSE_ARMOR = new HorseArmorItem(16, "blood_diamond", (new Item.Settings()).maxCount(1).group(ItemGroup.MISC));
 
