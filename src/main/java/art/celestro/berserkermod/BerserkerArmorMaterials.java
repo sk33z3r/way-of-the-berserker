@@ -9,7 +9,7 @@ import net.minecraft.sound.SoundEvent;
 import net.minecraft.sound.SoundEvents;
 
 public enum BerserkerArmorMaterials implements ArmorMaterial {
-    BLOOD_DIAMOND("blood_diamond", 40, new int[]{14, 16, 17, 12}, 10, SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, new int[]{3,7,9,4}, 4.0F, 0.2F, Ingredient.ofItems(BerserkerMod.BLOOD_DIAMOND));
+    BLOOD_DIAMOND("blood_diamond", 40, new int[]{14, 16, 17, 12}, 10, SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, new int[]{3,7,9,4}, 3.0F, 0.2F, Ingredient.ofItems(BerserkerMod.BLOOD_DIAMOND));
 
     private final String name;
     private final int durabilityMultiplier;
@@ -33,12 +33,12 @@ public enum BerserkerArmorMaterials implements ArmorMaterial {
         this.repairIngredient = repairIngredient;
     }
 
-    public int getDurability(EquipmentSlot equipmentSlot_1) {
-        return baseDurability[equipmentSlot_1.getEntitySlotId()] * this.durabilityMultiplier;
+    public int getDurability(EquipmentSlot slot) {
+        return this.baseDurability[slot.getEntitySlotId()] * this.durabilityMultiplier;
     }
 
-    public int getProtectionAmount(EquipmentSlot equipmentSlot_1) {
-        return this.protectionAmounts[equipmentSlot_1.getEntitySlotId()];
+    public int getProtectionAmount(EquipmentSlot slot) {
+        return this.protectionAmounts[slot.getEntitySlotId()];
     }
 
     public int getEnchantability() {

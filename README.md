@@ -25,10 +25,10 @@ This Mod runs in [Fabric](https://fabricmc.net) and requires [Fabric API](https:
 
 | Armor                    | Modifier | Toughness | Knockback Res. |
 |--------------------------|----------|-----------|----------------|
-| Blood Diamond Helmet     | +4       | +4        | 0              |
-| Blood Diamond Chestplate | +9       | +4        | 0              |
-| Blood Diamond Leggings   | +7       | +4        | 0              |
-| Blood Diamond Boots      | +3       | +4        | 0              |
+| Blood Diamond Helmet     | +4       | +3        | +2             |
+| Blood Diamond Chestplate | +9       | +3        | +2             |
+| Blood Diamond Leggings   | +7       | +3        | +2             |
+| Blood Diamond Boots      | +3       | +3        | +2             |
 
 <details>
 <summary>Click to show recipes</summary>
