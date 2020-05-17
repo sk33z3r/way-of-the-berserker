@@ -27,9 +27,9 @@ public class BerserkerMod implements ModInitializer {
 	public static final Block BLOOD_DIAMOND_BLOCK = new Block(Block.Settings.of(Material.METAL, MaterialColor.RED).strength(5.0F, 6.0F));
 	public static final Block BLOOD_DIAMOND_ORE = new OreBlock(Block.Settings.of(Material.STONE).strength(3.0F, 3.0F));
 
-	public static final Item FLINT_HATCHET = new FlintHatchet(FLINT_MATERIAL, 3.0F, -3.4F, (new Item.Settings()).group(ItemGroup.COMBAT));
-	public static final Item FLINT_DAGGER = new FlintDagger(FLINT_MATERIAL, 0.6F, -2.0F, (new Item.Settings()).group(ItemGroup.COMBAT));
-	public static final Item FLINT_SWORD = new FlintSword(FLINT_MATERIAL, 1, -2.4F, (new Item.Settings()).group(ItemGroup.COMBAT));
+	public static final Item FLINT_HATCHET = new FlintHatchet(FLINT_MATERIAL, 4.0F, -3.4F, (new Item.Settings()).group(ItemGroup.COMBAT));
+	public static final Item FLINT_DAGGER = new FlintDagger(FLINT_MATERIAL, 1.6F, -2.0F, (new Item.Settings()).group(ItemGroup.COMBAT));
+	public static final Item FLINT_SWORD = new FlintSword(FLINT_MATERIAL, 2, -2.4F, (new Item.Settings()).group(ItemGroup.COMBAT));
 
 	@Override
 	public void onInitialize() {

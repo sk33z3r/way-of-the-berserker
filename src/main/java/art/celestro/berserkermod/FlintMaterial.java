@@ -7,22 +7,22 @@ import net.minecraft.recipe.Ingredient;
 class FlintMaterial implements ToolMaterial {
     @Override
     public int getDurability() {
-        return 512;
+        return 90;
     }
 
     @Override
     public float getMiningSpeedMultiplier() {
-        return 5.0F;
+        return 3.0F;
     }
 
     @Override
     public float getAttackDamage() {
-        return 1.0F;
+        return 0.0F;
     }
 
     @Override
     public int getMiningLevel() {
-        return 1;
+        return 0;
     }
 
     @Override
