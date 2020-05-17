@@ -11,5 +11,8 @@
   "item.berserker_mod.blood_diamond_boots": "ブラッドダイヤモンドブーツ",
   "item.berserker_mod.blood_diamond_horse_armor": "ブラッドダイアモンドホースアーマー",
   "block.berserker_mod.blood_diamond_block": "ブラッドダイヤモンドブロック",
-  "block.berserker_mod.blood_diamond_ore": "血のダイヤモンド鉱石"
+  "block.berserker_mod.blood_diamond_ore": "血のダイヤモンド鉱石",
+  "item.berserker_mod.flint_hatchet": "フリント手斧",
+  "item.berserker_mod.flint_dagger": "フリントダガー",
+  "item.berserker_mod.flint_sword": "フリントソード"
 }

@@ -11,5 +11,8 @@
   "item.berserker_mod.blood_diamond_boots": "Bloed diamant Laarzen",
   "item.berserker_mod.blood_diamond_horse_armor": "Bloed diamant paardpantser",
   "block.berserker_mod.blood_diamond_block": "Bloed diamant blok",
-  "block.berserker_mod.blood_diamond_ore": "Bloed diamant erts"
+  "block.berserker_mod.blood_diamond_ore": "Bloed diamant erts",
+  "item.berserker_mod.flint_hatchet": "Vuursteen bijl",
+  "item.berserker_mod.flint_dagger": "Vuursteen dolk",
+  "item.berserker_mod.flint_sword": "Vuursteen zwaard"
 }

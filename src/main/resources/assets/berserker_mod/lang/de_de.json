@@ -11,5 +11,8 @@
   "item.berserker_mod.blood_diamond_boots": "Blutdiamantstiefel",
   "item.berserker_mod.blood_diamond_horse_armor": "Blutdiamant-Pferderüstung",
   "block.berserker_mod.blood_diamond_block": "Blutdiamantblock",
-  "block.berserker_mod.blood_diamond_ore": "Blutdiamanterz"
+  "block.berserker_mod.blood_diamond_ore": "Blutdiamanterz",
+  "item.berserker_mod.flint_hatchet": "Feuerstein Beil",
+  "item.berserker_mod.flint_dagger": "Feuersteindolch",
+  "item.berserker_mod.flint_sword": "Feuersteinschwert"
 }

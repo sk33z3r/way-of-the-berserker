@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " #X",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "berserker_mod:flint_hatchet",
+    "count": 1
+  }
+}
+

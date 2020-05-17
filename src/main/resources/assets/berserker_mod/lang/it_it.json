@@ -11,5 +11,8 @@
   "item.berserker_mod.blood_diamond_boots": "Stivali di diamanti di sangue",
   "item.berserker_mod.blood_diamond_horse_armor": "Armatura di cavallo di diamante di sangue",
   "block.berserker_mod.blood_diamond_block": "Blocco di diamante di sangue",
-  "block.berserker_mod.blood_diamond_ore": "Minerale di diamante di sangue"
+  "block.berserker_mod.blood_diamond_ore": "Minerale di diamante di sangue",
+  "item.berserker_mod.flint_hatchet": "Ascia di selce",
+  "item.berserker_mod.flint_dagger": "Pugnale di selce",
+  "item.berserker_mod.flint_sword": "Spada di selce"
 }

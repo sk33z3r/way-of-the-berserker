@@ -11,5 +11,8 @@
   "item.berserker_mod.blood_diamond_boots": "Blood Diamond Boots",
   "item.berserker_mod.blood_diamond_horse_armor": "Blood Diamond Horse Armor",
   "block.berserker_mod.blood_diamond_block": "Blood Diamond Block",
-  "block.berserker_mod.blood_diamond_ore": "Blood Diamond Ore"
+  "block.berserker_mod.blood_diamond_ore": "Blood Diamond Ore",
+  "item.berserker_mod.flint_hatchet": "Flint Hatchet",
+  "item.berserker_mod.flint_dagger": "Flint Dagger",
+  "item.berserker_mod.flint_sword": "Flint Sword"
 }

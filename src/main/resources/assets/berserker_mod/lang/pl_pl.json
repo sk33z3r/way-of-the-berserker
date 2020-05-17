@@ -11,5 +11,8 @@
   "item.berserker_mod.blood_diamond_boots": "Krwawe Diamentowe Buty",
   "item.berserker_mod.blood_diamond_horse_armor": "Pancerz Konny Krwawego Diamentu",
   "block.berserker_mod.blood_diamond_block": "Blok Diamentowego Krwi",
-  "block.berserker_mod.blood_diamond_ore": "Ruda Krwawego Diamentu"
+  "block.berserker_mod.blood_diamond_ore": "Ruda Krwawego Diamentu",
+  "item.berserker_mod.flint_hatchet": "Topór krzemienny",
+  "item.berserker_mod.flint_dagger": "Krzemienny sztylet",
+  "item.berserker_mod.flint_sword": "Krzemienny miecz"
 }

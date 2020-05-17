@@ -11,5 +11,8 @@
   "item.berserker_mod.blood_diamond_boots": "Сапоги Кровавого Алмаза",
   "item.berserker_mod.blood_diamond_horse_armor": "Броня коня Кровавого Алмаза",
   "block.berserker_mod.blood_diamond_block": "Блок Кровавого Алмаза",
-  "block.berserker_mod.blood_diamond_ore": "Кровавая алмазная руда"
+  "block.berserker_mod.blood_diamond_ore": "Кровавая алмазная руда",
+  "item.berserker_mod.flint_hatchet": "флинт топорик",
+  "item.berserker_mod.flint_dagger": "кремневый кинжал",
+  "item.berserker_mod.flint_sword": "кремневый меч"
 }

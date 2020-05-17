@@ -11,6 +11,8 @@
   "item.berserker_mod.blood_diamond_boots": "Botas de Diamante de Sangue",
   "item.berserker_mod.blood_diamond_horse_armor": "Armadura de cavalo com diamante de sangue",
   "block.berserker_mod.blood_diamond_block": "Bloco de diamante de sangue",
-  "block.berserker_mod.blood_diamond_ore": "Minério de Diamante de Sangue"
+  "block.berserker_mod.blood_diamond_ore": "Minério de Diamante de Sangue",
+  "item.berserker_mod.flint_hatchet": "Machado de sílex",
+  "item.berserker_mod.flint_dagger": "Punhal de pedra",
+  "item.berserker_mod.flint_sword": "Espada de sílex"
 }
-

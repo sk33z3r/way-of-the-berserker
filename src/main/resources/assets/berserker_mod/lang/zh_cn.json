@@ -11,5 +11,8 @@
   "item.berserker_mod.blood_diamond_boots": "鲜血钻石靴",
   "item.berserker_mod.blood_diamond_horse_armor": "血钻马铠",
   "block.berserker_mod.blood_diamond_block": "血钻方块",
-  "block.berserker_mod.blood_diamond_ore": "血钻石矿"
+  "block.berserker_mod.blood_diamond_ore": "血钻石矿",
+  "item.berserker_mod.flint_hatchet": "火石斧",
+  "item.berserker_mod.flint_dagger": "火石匕首",
+  "item.berserker_mod.flint_sword": "火石剑"
 }
